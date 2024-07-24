@@ -1,0 +1,1 @@
+Imaginator - part of lib for making symbolic pictures out of normal one - PNG, JPEG, etc
